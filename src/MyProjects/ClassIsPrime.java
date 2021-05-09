@@ -10,7 +10,7 @@ public class ClassIsPrime {
 	// To read the number
 	public void YourNumber()
 	{
-		System.out.println("Enter your number:");
+		System.out.println("Enter your number: ");
 		Scanner scanner= new Scanner(System.in);
 		  number= scanner.nextInt();
 	}
@@ -36,11 +36,11 @@ public class ClassIsPrime {
 		
 		if(isprime==false)
 		{
-			System.out.println(number +" is not prime");
+			System.out.println(number +" is not Prime");
 		} 
 		else
 		{
-			System.out.println(number+ " is prime");
+			System.out.println(number+ " is Prime");
 		}
 		
 	}
