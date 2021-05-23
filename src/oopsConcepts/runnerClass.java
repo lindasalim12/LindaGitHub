@@ -12,10 +12,13 @@ Empl.OrgName= "abc";*/
 
 Empl.Display();
 ClassB Obj1 = new ClassB();
+ClassC Obj2 = new ClassC();
 Obj1.Name = "Raj";
 Obj1.Salary=1000;
 Obj1.OrgName = "PQR";
 Obj1.Display();
+Obj1.show();
+Obj2.run();
 	}
 
 }
