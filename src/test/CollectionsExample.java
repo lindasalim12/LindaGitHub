@@ -41,7 +41,7 @@ public class CollectionsExample {
 		System.out.println(myStack);
 		myStack.push("Charlie");
 		System.out.println(myStack);
-		
+		//some changes
 	}
 
 }
